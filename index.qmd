@@ -33,3 +33,13 @@ editor_options:
 ![](rstudio-cloud-assignment.png){fig-alt="Screenshot of an RStudio Cloud assignment." fig-align="center"}
 
 # Commit Exam 
+
+## In your console: {.smaller}
+
+Replace my details with yours: 
+
+`usethis::use_git_config(user.name = "lars", user.email = "lars@lse.de")`
+
+## Commit
+
+
