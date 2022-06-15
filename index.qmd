@@ -1,0 +1,35 @@
+---
+title: "rbtl - Exam"
+author: "Lars Schöbitz"
+institute: "Global Health Engineering - ETH Zurich"
+date: "2022-06-16"
+format: 
+  revealjs: 
+    theme: [default, "slides.scss"]
+    chalkboard: true
+    transition: fade
+editor: source
+editor_options: 
+  chunk_output_type: console
+---
+
+# Timing
+
+## Timing
+
+- Room: IFW C42 (**not our lecture room**)
+- Doors open: 14:30 (also on Zoom)
+- Exam start: 15:15
+- Exam end: 17:15 
+
+# Workflow
+
+## Workflow (15:15)
+
+- Open Projects page on RStudio Cloud rbtl-fs22 Workspace 
+- Look for 'exam-fs22' assignment
+- Click 'Start'
+
+![](rstudio-cloud-assignment.png){fig-alt="Screenshot of an RStudio Cloud assignment." fig-align="center"}
+
+# Commit Exam 
